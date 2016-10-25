@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bem-sdk/bem-files-to-vinyl-fs.git"
+    "url": "git+https://github.com/gulp-bem/bem-files-to-vinyl-fs.git"
   },
   "keywords": [
     "bem",
     "bem-file",
     "vinyl-fs",
-    "bem-sdk"
+    "gulp-bem"
   ],
   "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/bem-sdk/bem-files-to-vinyl-fs/issues"
+    "url": "https://github.com/gulp-bem/bem-files-to-vinyl-fs/issues"
   },
-  "homepage": "https://github.com/bem-sdk/bem-files-to-vinyl-fs#readme",
+  "homepage": "https://github.com/gulp-bem/bem-files-to-vinyl-fs#readme",
   "dependencies": {
     "through2": "^2.0.1",
     "vinyl": "^2.0.0"
